@@ -1,6 +1,8 @@
 # English-Words-Pronunciation-Tool
 Tool to download the English words correct pronunciation, sourced from Google search.    
-You can select any one amog these three accents: American, British and Indian.
+You can select any one amog these three accents: American, British and Indian.        
+
+![tmp](https://ssl.gstatic.com/dictionary/static/pronunciation/20180801/desktop/t_d_s_z.svg)       
 
 Using Google search engine is literally more easy and convenient lol, but I have made it just for fun.
 Thought to make a telegram bot, send a word and get back its correct pronunciation video clip.
